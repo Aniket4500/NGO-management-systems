@@ -1,0 +1,16 @@
+body{
+	background-color: blueviolet;
+	height: 100vh;
+}	
+.center{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.center ul li{
+	float: left;
+	background-color: blue;
+	border-radius: 10px;
+	text-align: center;
+}
+

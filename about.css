@@ -1,0 +1,19 @@
+body{
+		margin: 0px;
+		padding: 0 px;
+		font-family: sans-serif;
+		text-align: center;
+		background-image: url("ngo.jpg");
+		background-repeat: no-repeat;
+	
+	}
+h3{
+	font-size: 40px;
+}
+h2{
+	font-size: 30px;
+}
+
+p{
+	font-size: 25px;
+}

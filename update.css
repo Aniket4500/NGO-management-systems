@@ -1,0 +1,77 @@
+	body{
+	margin: 0;
+	padding:0;
+	font-family: montserrat;
+	background: floralwhite;
+	height: 100vh;
+	overflow: hidden;
+	background: #241b4a;
+}
+
+ form{	
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	width: 600px;
+	height: 720px;
+	border-radius: 10px;
+	background:whitesmoke;
+}
+
+ form{
+	padding: 0 50px;
+	box-sizing: border-box;
+
+}
+
+ h2{
+	text-align: center;
+	padding: 0 30px;
+	font-family: inherit;
+}
+
+ form{
+	padding: 0 30px 0 20px;
+	box-sizing: border-box;
+}
+
+form .txt_field{
+	position: relative; 
+	margin: 35px 0 30px 10px ;
+}
+
+.txt_field input{
+	width: 70%;
+	padding: 0 7px;
+	height: 25px;
+	font-size: 14px;
+	border-width: 5%;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	border-color: silver;
+}
+
+
+.txt_field label{
+	position: absolute;
+	bottom: 25px;
+	font-family: inherit;
+	font-size: 18px;
+}
+
+
+button[type="submit"]{
+
+	width: 60%;
+	height: 50px;
+	border: 1px solid;
+	background:#241b4a;
+	border-radius: 25px;
+	font-size: 18px;
+	color: #e9f4fb;
+	font-weight: 700;
+	cursor: pointer;
+	outline: none;
+}
